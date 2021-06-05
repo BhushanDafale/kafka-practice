@@ -5,7 +5,7 @@
     <modelVersion>4.0.0</modelVersion>
 
     <groupId>com.de</groupId>
-    <artifactId>kafka-demo</artifactId>
+    <artifactId>kafka-practice</artifactId>
     <version>1.0-SNAPSHOT</version>
 
     <properties>
