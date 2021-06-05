@@ -7,11 +7,11 @@ import org.slf4j.LoggerFactory;
 
 import java.util.Properties;
 
-public class ProducerDemo {
+public class KafkaProducerDemo {
 
     public static void main(String[] args) {
 
-        Logger log = LoggerFactory.getLogger(ProducerDemo.class);
+        Logger log = LoggerFactory.getLogger(KafkaProducerDemo.class);
 
         // create producer properties
         Properties properties = new Properties();
